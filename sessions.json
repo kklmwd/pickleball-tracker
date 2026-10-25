@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-10-25T03:48:20.269Z",
+  "generatedAt": "2026-10-25T03:52:26.801Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "5 found"
   },
   "warnings": [
-    "Playtomic failed: fetch failed"
+    "playtomic club search: ENOTFOUND getaddrinfo ENOTFOUND api.playtomic.io for https://api.playtomic.io/v1/tenants?sport_id=PICKLEBALL&coordinate=1.3521%2C103.8198&radius=30000&size=100&page=0",
+    "playtomic club search: 403 Forbidden for https://playtomic.com/api/v1/tenants?sport_id=PICKLEBALL&coordinate=1.3521%2C103.8198&radius=30000&size=100&page=0",
+    "Playtomic failed: no Playtomic address worked (ENOTFOUND getaddrinfo ENOTFOUND api.playtomic.io for https://api.playtomic.io/v1/tenants?sport_id=PICKLEBALL&coordinate=1.3521%2C103.8198&radius=30000&size=100&page=0; 403 Forbidden for https://playtomic.com/api/v1/tenants?sport_id=PICKLEBALL&coordinate=1.3521%2C103.8198&radius=30000&size=100&page=0)"
   ],
   "sessions": [
     {
       "source": "reclub",
       "kind": "meet",
-      "area": "Jalan Kayu",
+      "area": "East",
       "venue": "The Sports Arina (Expo) HALL 10",
       "address": "",
       "title": "Social games with Pickleball Ninjas",
@@ -62,7 +64,7 @@
     {
       "source": "reclub",
       "kind": "meet",
-      "area": "Jalan Kayu",
+      "area": "East",
       "venue": "The Sports Arina (Expo) HALL 10",
       "address": "",
       "title": "Novice and Beginner Class (1/5)",
@@ -79,7 +81,7 @@
     {
       "source": "reclub",
       "kind": "meet",
-      "area": "Jalan Kayu",
+      "area": "East",
       "venue": "The Sports Arina (Expo) HALL 10",
       "address": "",
       "title": "Novice and Beginner Class (2/5)",
