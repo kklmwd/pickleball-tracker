@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm test)",
+      "Bash(npm test:*)",
+      "Bash(npm run scrape)",
+      "Bash(npm run scrape:*)",
+      "Bash(node --test:*)",
+      "Bash(node scrape.mjs:*)",
+      "Bash(git fetch origin pickleball-data)",
+      "Bash(git show origin/pickleball-data:*)",
+      "WebFetch(domain:reclub.co)",
+      "WebFetch(domain:api.playtomic.io)",
+      "WebFetch(domain:playtomic.com)"
+    ]
+  }
+}
