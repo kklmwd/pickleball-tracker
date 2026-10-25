@@ -24,7 +24,7 @@ it that way: use built-in `fetch`, `node:test` and `Intl`.
 ## Status of the parsers
 
 - Reclub: verified against live meets (Oct 2026). Field names are noted above `CAP_KEYS` in `lib/reclub.mjs`, and a real-shape test is in `test/tracker.test.mjs`.
-- Playtomic: unverified. `api.playtomic.io` had no DNS record and `playtomic.com/api/v1` answered 403 from GitHub's runners, so `PLAYTOMIC.bases` tries several hosts in order. The `/v1/matches` parameters and the `PICKLEBALL` sport id are also unconfirmed. Use `/fix-parsers` once a host answers.
+- Playtomic: blocked from GitHub Actions. CloudFront returns 403 to GitHub's runner IPs for all of playtomic.com, and `api.playtomic.io` has no DNS record (checked Oct 2026). Don't try to get past the block (no browser-UA spoofing or proxies). Running `npm run scrape` from a home connection may work. After that, check the `/v1/matches` params and the `PICKLEBALL` sport id with `/fix-parsers`.
 
 ## Commands
 

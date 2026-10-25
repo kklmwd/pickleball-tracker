@@ -32,9 +32,11 @@ export const AREAS = [
 
 export const PLAYTOMIC = {
   // Tried in order; the first that answers the club search is used.
-  // api.playtomic.io had no DNS record and playtomic.com/api answered 403
-  // from GitHub's runners (Oct 2026).
-  bases: ['https://playtomic.io/api/v1', 'https://api.playtomic.io/v1', 'https://playtomic.com/api/v1'],
+  // Tried in order. Oct 2026: api.playtomic.io has no DNS record, playtomic.io
+  // redirects to playtomic.com, and CloudFront answers 403 to GitHub's
+  // runners for all of playtomic.com (homepage included). It may work from a
+  // home connection.
+  bases: ['https://playtomic.com/api/v1'],
   sportId: 'PICKLEBALL',
   // Centre of Singapore; 30 km covers the whole island.
   coordinate: { lat: 1.3521, lng: 103.8198 },
