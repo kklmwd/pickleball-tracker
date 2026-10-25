@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-10-25T03:48:20.269Z",
+  "sources": {
+    "Playtomic": "failed",
+    "Reclub": "5 found"
+  },
+  "warnings": [
+    "Playtomic failed: fetch failed"
+  ],
+  "sessions": [
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "Jalan Kayu",
+      "venue": "The Sports Arina (Expo) HALL 10",
+      "address": "",
+      "title": "Social games with Pickleball Ninjas",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/1R73VL",
+      "start": "2026-10-26T10:00:00+08:00",
+      "end": "2026-10-26T12:00:00+08:00",
+      "capacity": null,
+      "spots": null,
+      "price": null,
+      "id": "reclub:1R73VL",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "TSA Expo Hall 10",
+      "address": "",
+      "title": "High Intermediate Games @ Expo TSA",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/C0XHP8",
+      "start": "2026-10-26T11:00:00+08:00",
+      "end": "2026-10-26T14:00:00+08:00",
+      "capacity": null,
+      "spots": null,
+      "price": null,
+      "id": "reclub:C0XHP8",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "TSA Expo Hall 10",
+      "address": "",
+      "title": "Pickleball Social @ Expo",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/MGGDLP",
+      "start": "2026-10-26T19:00:00+08:00",
+      "end": "2026-10-26T21:00:00+08:00",
+      "capacity": 0,
+      "spots": 0,
+      "price": null,
+      "id": "reclub:MGGDLP",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "Jalan Kayu",
+      "venue": "The Sports Arina (Expo) HALL 10",
+      "address": "",
+      "title": "Novice and Beginner Class (1/5)",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/RH90G0",
+      "start": "2026-10-28T08:00:00+08:00",
+      "end": "2026-10-28T10:00:00+08:00",
+      "capacity": 0,
+      "spots": 0,
+      "price": null,
+      "id": "reclub:RH90G0",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "Jalan Kayu",
+      "venue": "The Sports Arina (Expo) HALL 10",
+      "address": "",
+      "title": "Novice and Beginner Class (2/5)",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/4LT3A4",
+      "start": "2026-10-30T08:00:00+08:00",
+      "end": "2026-10-30T10:00:00+08:00",
+      "capacity": 0,
+      "spots": 0,
+      "price": null,
+      "id": "reclub:4LT3A4",
+      "isNew": false
+    }
+  ]
+}
