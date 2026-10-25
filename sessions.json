@@ -1,30 +1,13 @@
 {
-  "generatedAt": "2026-10-25T03:56:14.709Z",
+  "generatedAt": "2026-10-25T11:24:01.099Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "8 found"
+    "Reclub": "9 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "MacPherson Community Club",
-      "address": "400 Paya Lebar Way, Singapore",
-      "title": "Lovely Pickleball Session on Sunday Afternoon ",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/AD6HTR",
-      "start": "2026-10-25T14:30:00+08:00",
-      "end": "2026-10-25T16:30:00+08:00",
-      "capacity": 13,
-      "spots": 2,
-      "price": "4 SGD",
-      "id": "reclub:AD6HTR",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -92,6 +75,40 @@
       "price": "20 SGD",
       "id": "reclub:MGGDLP",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "PickleX",
+      "address": "9 Somapah Road, Hall 7 Singapore Expo, Singapore 487370",
+      "title": "Intermediate Social Doubles",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/2QWZEP",
+      "start": "2026-10-26T20:00:00+08:00",
+      "end": "2026-10-26T22:00:00+08:00",
+      "capacity": 6,
+      "spots": 0,
+      "price": "16 SGD",
+      "id": "reclub:2QWZEP",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "Jalan Kayu",
+      "venue": "The Sports Arina @ Jalan Kayu",
+      "address": "20a Fernvale Road, Singapore",
+      "title": "26 Oct Evening pickleball @ Jalan Kayu",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/G09I0K",
+      "start": "2026-10-26T20:00:00+08:00",
+      "end": "2026-10-26T22:00:00+08:00",
+      "capacity": 7,
+      "spots": 0,
+      "price": "13 SGD",
+      "id": "reclub:G09I0K",
+      "isNew": true
     },
     {
       "source": "reclub",
