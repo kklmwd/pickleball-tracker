@@ -32,7 +32,9 @@ export const AREAS = [
 
 export const PLAYTOMIC = {
   // Tried in order; the first that answers the club search is used.
-  bases: ['https://api.playtomic.io/v1', 'https://playtomic.com/api/v1'],
+  // api.playtomic.io had no DNS record and playtomic.com/api answered 403
+  // from GitHub's runners (Oct 2026).
+  bases: ['https://playtomic.io/api/v1', 'https://api.playtomic.io/v1', 'https://playtomic.com/api/v1'],
   sportId: 'PICKLEBALL',
   // Centre of Singapore; 30 km covers the whole island.
   coordinate: { lat: 1.3521, lng: 103.8198 },

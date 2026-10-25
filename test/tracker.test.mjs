@@ -118,3 +118,19 @@ test('inspect: shows shape, never names inside lists', () => {
   assert.match(out, /1 items; keys: name,id/);
   assert.doesNotMatch(out, /Alice/);
 });
+
+test('reclub: real meet shape (Oct 2026)', () => {
+  const meet = {
+    id: 6085165, referenceCode: 'F6A14P', status: 1, startDatetime: 1793091600, endDatetime: 1793098800,
+    sportId: 36, numPlayers: 6, name: 'Aircon Intermediate Social', slots: [], feeType: 2, feeAmount: 20, feeCurrency: 'SGD',
+    participants: [{}, {}, {}], participantsStatusCount: { joined: 2 },
+    venue: { venueId: 73610, name: 'The Astrium, Chinese Swimming Club',
+      location: { address: '34 Amber Road, Singapore 439870', latitude: 1.3006071, longitude: 103.900604, locality: 'Marine Parade' } },
+  };
+  const row = meetRow(meet, 'east-coast-plan', new Date('2026-10-25T12:00:00+08:00'));
+  assert.deepEqual(
+    { url: row.url, area: row.area, spots: row.spots, capacity: row.capacity, price: row.price, start: row.start, address: row.address },
+    { url: 'https://reclub.co/m/F6A14P', area: 'East', spots: 4, capacity: 6, price: '20 SGD', start: '2026-10-27T17:00:00+08:00', address: '34 Amber Road, Singapore 439870' },
+  );
+  assert.equal(meetRow({ ...meet, feeType: 0, feeAmount: null }, 'x', new Date('2026-10-25T12:00:00+08:00')).price, 'Free');
+});
