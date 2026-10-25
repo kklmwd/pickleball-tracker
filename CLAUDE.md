@@ -1,5 +1,11 @@
 # Pickleball tracker
 
+## Working with the user
+
+Work things out yourself and act. Don't ask the user about anything you can
+find, check or decide yourself (read logs, run the workflow, try the next
+fix). Only ask about real choices that are theirs, and keep replies short.
+
 Scrapes Playtomic and Reclub for pickleball sessions in East Singapore and
 Jalan Kayu over the next 7 days. Plain Node 22 ESM, no npm dependencies. Keep
 it that way: use built-in `fetch`, `node:test` and `Intl`.
@@ -28,6 +34,7 @@ trimmed real sample as a test fixture. See `/fix-parsers`.
 
 - `npm test`: unit tests (`test/*.test.mjs`, node:test).
 - `npm run scrape`: live run into `out/` with raw responses saved.
+- CI runs with `--inspect`, which logs the shape of a few responses (keys and simple values, list contents reduced to length and keys). Read it with the job log when fitting parsers. The raw-responses artifact can't be downloaded from the Claude sandbox (blob storage host is blocked).
 - Latest published results: `git fetch origin pickleball-data && git show origin/pickleball-data:sessions.json`.
 
 ## Conventions

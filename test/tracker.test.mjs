@@ -8,9 +8,11 @@ import { toDate, sgIso } from '../lib/util.mjs';
 import { courtRows, matchRows, tenantVenue } from '../lib/playtomic.mjs';
 import { unflatten, findMeets, meetRow, payloadFromHtml } from '../lib/reclub.mjs';
 import { renderMarkdown } from '../lib/render.mjs';
+import { describe } from '../lib/inspect.mjs';
 
 test('areas: names, postal sectors and coordinates', () => {
   assert.equal(matchArea({ text: 'The Sports Arina @ Jalan Kayu' }), 'Jalan Kayu');
+  assert.equal(matchArea({ text: 'The Sports Arina (Expo) HALL 10' }), 'East');
   assert.equal(matchArea({ text: 'Bedok North Ave 1' }), 'East');
   assert.equal(matchArea({ text: '1 Somewhere Rd, Singapore 529510' }), 'East'); // Tampines sector 52
   assert.equal(matchArea({ text: 'Club X', lat: 1.3521, lng: 103.9447 }), 'East'); // Tampines
@@ -108,4 +110,11 @@ test('render: markdown has both sections', () => {
   });
   assert.match(md, /Mon, 26 Oct.*: 🆕19:00 ×2 \(from 35 SGD\)/);
   assert.match(md, /Bedok \\\| Hall \| Social \| 5\/8/);
+});
+
+test('inspect: shows shape, never names inside lists', () => {
+  const out = JSON.stringify(describe({ name: 'Social', maxPlayers: 8, players: [{ name: 'Alice', id: 1 }] }));
+  assert.match(out, /"name":"Social"/);
+  assert.match(out, /1 items; keys: name,id/);
+  assert.doesNotMatch(out, /Alice/);
 });

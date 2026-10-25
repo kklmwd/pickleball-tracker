@@ -1,12 +1,15 @@
 #!/usr/bin/env node
-// Usage: node scrape.mjs [--out dir] [--raw]
+// Usage: node scrape.mjs [--out dir] [--raw] [--inspect]
 // Writes sessions.json and SESSIONS.md to the out dir (default ./out),
-// plus raw API responses under raw/ with --raw.
+// plus raw API responses under raw/ with --raw. --inspect logs the shape of
+// a few responses (keys and simple values) so parsers can be fitted from a
+// CI log without publishing the raw data.
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { scrapePlaytomic } from './lib/playtomic.mjs';
 import { scrapeReclub } from './lib/reclub.mjs';
 import { renderMarkdown } from './lib/render.mjs';
+import { describe } from './lib/inspect.mjs';
 
 const args = process.argv.slice(2);
 const outDir = args.includes('--out') ? args[args.indexOf('--out') + 1] : 'out';
@@ -17,6 +20,14 @@ const log = (m) => console.log(m);
 const warn = (m) => { console.warn(`warn: ${m}`); warnings.push(m); };
 const rawFiles = [];
 const raw = (name, data) => { if (saveRaw) rawFiles.push([name, data]); };
+const inspected = new Map();
+const inspect = (label, data) => {
+  if (!args.includes('--inspect')) return;
+  const n = inspected.get(label) ?? 0;
+  if (n >= 3) return;
+  inspected.set(label, n + 1);
+  console.log(`inspect ${label}: ${JSON.stringify(describe(data))}`);
+};
 
 await mkdir(outDir, { recursive: true });
 
@@ -31,7 +42,7 @@ const sessions = [];
 for (const [name, scrape] of [['Playtomic', scrapePlaytomic], ['Reclub', scrapeReclub]]) {
   try {
     const before = warnings.length;
-    const { rows } = await scrape({ log, warn, raw });
+    const { rows } = await scrape({ log, warn, raw, inspect });
     sessions.push(...rows);
     sources[name] = `${rows.length} found${warnings.length > before ? ', with warnings' : ''}`;
   } catch (e) {

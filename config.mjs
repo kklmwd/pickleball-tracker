@@ -8,7 +8,8 @@ export const TIMEZONE = 'Asia/Singapore';
 export const AREAS = [
   {
     name: 'Jalan Kayu',
-    keywords: ['jalan kayu', 'sports arina', 'tsa @', 'tsa jalan', 'seletar'],
+    // Not 'sports arina' alone: TSA also runs halls at Expo (East).
+    keywords: ['jalan kayu', 'tsa jalan', 'seletar'],
     postalSectors: [],
     // Jalan Kayu / Seletar Hills / Seletar Aerospace.
     circle: { lat: 1.398, lng: 103.872, km: 3 },
@@ -30,7 +31,8 @@ export const AREAS = [
 ];
 
 export const PLAYTOMIC = {
-  base: 'https://api.playtomic.io/v1',
+  // Tried in order; the first that answers the club search is used.
+  bases: ['https://api.playtomic.io/v1', 'https://playtomic.com/api/v1'],
   sportId: 'PICKLEBALL',
   // Centre of Singapore; 30 km covers the whole island.
   coordinate: { lat: 1.3521, lng: 103.8198 },

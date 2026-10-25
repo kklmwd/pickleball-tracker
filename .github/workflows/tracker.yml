@@ -36,7 +36,7 @@ jobs:
           fi
 
       - name: Scrape
-        run: node scrape.mjs --out data --raw
+        run: node scrape.mjs --out data --raw --inspect
 
       - name: Show results on the run page
         if: always()
