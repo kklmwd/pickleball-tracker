@@ -1,0 +1,26 @@
+name: Probe Playtomic (temporary)
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          q='sport_id=PICKLEBALL&coordinate=1.3521,103.8198&radius=30000&size=5'
+          for u in \
+            "https://playtomic.io/api/v1/tenants?$q" \
+            "https://playtomic.io/api/v2/tenants?$q" \
+            "https://playtomic.io/api/tenants?$q" \
+            "https://playtomic.io/api/v1/tenants" \
+            "https://playtomic.io/api/v2/configuration" \
+            "https://playtomic.io/api/v1/configuration" \
+            "https://playtomic.io/v1/tenants?$q" \
+            "https://playtomic.io/api/v1/availability" \
+            "https://playtomic.io/" \
+            "https://app.playtomic.io/" \
+            "https://app.playtomic.io/api/v1/tenants?$q" \
+            "https://api.playtomic.com/v1/tenants?$q" \
+            "https://playtomic.io/api/v1/tenants?sport_id=PADEL&coordinate=1.3521,103.8198&radius=30000&size=5"; do
+            code=$(curl -s -m 20 -o body -w '%{http_code} %{content_type}' -A 'pickleball-tracker (personal use; github.com/kklmwd/pickleball-tracker)' "$u" || echo ERR)
+            echo "== $code $u"; head -c 300 body | tr '\n' ' '; echo
+          done
+          getent hosts api.playtomic.io playtomic.io app.playtomic.io api.playtomic.com || true
