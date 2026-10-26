@@ -1,47 +1,13 @@
 {
-  "generatedAt": "2026-10-25T23:15:24.455Z",
+  "generatedAt": "2026-10-26T04:43:58.448Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "10 found"
+    "Reclub": "8 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "The Sports Arina (Expo) HALL 10",
-      "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
-      "title": "Social games with Pickleball Ninjas",
-      "club": "east-coast-plan",
-      "url": "https://reclub.co/m/1R73VL",
-      "start": "2026-10-26T10:00:00+08:00",
-      "end": "2026-10-26T12:00:00+08:00",
-      "capacity": 8,
-      "spots": 0,
-      "price": "8.75 SGD",
-      "id": "reclub:1R73VL",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "TSA Expo Hall 10",
-      "address": "Somapah Road, Singapore",
-      "title": "High Intermediate Games @ Expo TSA",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/C0XHP8",
-      "start": "2026-10-26T11:00:00+08:00",
-      "end": "2026-10-26T14:00:00+08:00",
-      "capacity": 6,
-      "spots": 0,
-      "price": "107.28 SGD",
-      "id": "reclub:C0XHP8",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -71,7 +37,7 @@
       "start": "2026-10-26T19:00:00+08:00",
       "end": "2026-10-26T21:00:00+08:00",
       "capacity": 7,
-      "spots": 2,
+      "spots": 1,
       "price": "20 SGD",
       "id": "reclub:MGGDLP",
       "isNew": false
@@ -156,7 +122,7 @@
       "start": "2026-10-28T11:00:00+08:00",
       "end": "2026-10-28T14:00:00+08:00",
       "capacity": 6,
-      "spots": 1,
+      "spots": 3,
       "price": "107.28 SGD",
       "id": "reclub:3P1E6L",
       "isNew": false
