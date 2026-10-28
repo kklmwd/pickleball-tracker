@@ -1,64 +1,13 @@
 {
-  "generatedAt": "2026-10-27T22:12:06.261Z",
+  "generatedAt": "2026-10-28T05:39:57.852Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "7 found"
+    "Reclub": "6 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "The Sports Arina (Expo) HALL 10",
-      "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
-      "title": "Novice and Beginner Class (1/5)",
-      "club": "east-coast-plan",
-      "url": "https://reclub.co/m/RH90G0",
-      "start": "2026-10-28T08:00:00+08:00",
-      "end": "2026-10-28T10:00:00+08:00",
-      "capacity": 9,
-      "spots": 8,
-      "price": "28 SGD",
-      "id": "reclub:RH90G0",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "TSA Expo Hall 10",
-      "address": "Somapah Road, Singapore",
-      "title": "Intermediate Games @ Expo TSA",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/3P1E6L",
-      "start": "2026-10-28T11:00:00+08:00",
-      "end": "2026-10-28T14:00:00+08:00",
-      "capacity": 6,
-      "spots": 0,
-      "price": "107.28 SGD",
-      "id": "reclub:3P1E6L",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
-      "address": "750a Chai Chee Road, #8th Floor, Singapore",
-      "title": "28/10(7-9 pm ) ",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/92ZOSK",
-      "start": "2026-10-28T19:00:00+08:00",
-      "end": "2026-10-28T21:00:00+08:00",
-      "capacity": 12,
-      "spots": 6,
-      "price": "12 SGD",
-      "id": "reclub:92ZOSK",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -88,7 +37,7 @@
       "start": "2026-10-29T07:00:00+08:00",
       "end": "2026-10-29T10:00:00+08:00",
       "capacity": 7,
-      "spots": 3,
+      "spots": 2,
       "price": "16 SGD",
       "id": "reclub:CPIYF0",
       "isNew": false
@@ -114,6 +63,23 @@
       "source": "reclub",
       "kind": "meet",
       "area": "East",
+      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
+      "address": "10 Tebing Lane, Singapore",
+      "title": "2H Fun Pickleball Smash (Indoor Court)",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/VTX8E4",
+      "start": "2026-10-29T19:00:00+08:00",
+      "end": "2026-10-29T21:00:00+08:00",
+      "capacity": 7,
+      "spots": 2,
+      "price": "15 SGD",
+      "id": "reclub:VTX8E4",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
       "venue": "The Sports Arina (Expo) HALL 10",
       "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
       "title": "Novice and Beginner Class (1/5)",
@@ -126,6 +92,23 @@
       "price": "34 SGD",
       "id": "reclub:4LT3A4",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "The Sports Arina (Expo) HALL 10",
+      "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
+      "title": "Novice and Beginner Class (3/5)",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/9KSLXM",
+      "start": "2026-11-04T08:00:00+08:00",
+      "end": "2026-11-04T10:00:00+08:00",
+      "capacity": 9,
+      "spots": 8,
+      "price": "28 SGD",
+      "id": "reclub:9KSLXM",
+      "isNew": true
     }
   ]
 }
