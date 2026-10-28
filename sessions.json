@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T05:39:57.852Z",
+  "generatedAt": "2026-10-28T12:51:45.371Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "6 found"
+    "Reclub": "8 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
@@ -37,7 +37,7 @@
       "start": "2026-10-29T07:00:00+08:00",
       "end": "2026-10-29T10:00:00+08:00",
       "capacity": 7,
-      "spots": 2,
+      "spots": 1,
       "price": "16 SGD",
       "id": "reclub:CPIYF0",
       "isNew": false
@@ -54,7 +54,7 @@
       "start": "2026-10-29T11:00:00+08:00",
       "end": "2026-10-29T14:00:00+08:00",
       "capacity": 6,
-      "spots": 1,
+      "spots": 0,
       "price": "107.28 SGD",
       "id": "reclub:XCDSLV",
       "isNew": false
@@ -74,6 +74,40 @@
       "spots": 2,
       "price": "15 SGD",
       "id": "reclub:VTX8E4",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "ActiveSG Sport Park @ Bedok North",
+      "address": "3 Bedok North Street 2, Singapore",
+      "title": "Pickleball Social with CL",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/MOBI4Z",
+      "start": "2026-10-29T20:00:00+08:00",
+      "end": "2026-10-29T22:00:00+08:00",
+      "capacity": 8,
+      "spots": 0,
+      "price": "4 SGD",
+      "id": "reclub:MOBI4Z",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "TSA Expo Hall 10",
+      "address": "Somapah Road, Singapore",
+      "title": "TSA Expo Thursday Pikoboll",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/72VT8W",
+      "start": "2026-10-29T21:00:00+08:00",
+      "end": "2026-10-29T23:00:00+08:00",
+      "capacity": 8,
+      "spots": 0,
+      "price": "16 SGD",
+      "id": "reclub:72VT8W",
       "isNew": true
     },
     {
@@ -108,7 +142,7 @@
       "spots": 8,
       "price": "28 SGD",
       "id": "reclub:9KSLXM",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
