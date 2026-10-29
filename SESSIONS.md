@@ -1,14 +1,13 @@
 # Pickleball sessions: East & Jalan Kayu
 
-Updated 29 Oct 2026, 8:54 am SGT. 🆕 = first seen this run.
+Updated 29 Oct 2026, 5:55 pm SGT. 🆕 = first seen this run.
 
-**Playtomic**: failed · **Reclub**: 6 found
+**Playtomic**: failed · **Reclub**: 5 found
 
 ## Sessions to join
 
 | When | Area | Venue | Session | Spots | Price | |
 |---|---|---|---|---|---|---|
-| Thu, 29 Oct 11:00–14:00 | East | TSA @ Singapore EXPO Hall 10 | High Intermediate Games @ Expo TSA | 0/6 | 107.28 SGD | [Reclub](https://reclub.co/m/XCDSLV) |
 | Thu, 29 Oct 19:00–21:00 | East | Play! Pickle (Pickleball + Tennis Academy) | 2H Fun Pickleball Smash (Indoor Court) | 2/7 | 15 SGD | [Reclub](https://reclub.co/m/VTX8E4) |
 | Thu, 29 Oct 20:00–22:00 | East | ActiveSG Sport Park @ Bedok North | Pickleball Social with CL | 0/8 | 4 SGD | [Reclub](https://reclub.co/m/MOBI4Z) |
 | Thu, 29 Oct 21:00–23:00 | East | TSA Expo Hall 10 | TSA Expo Thursday Pikoboll | 0/8 | 16 SGD | [Reclub](https://reclub.co/m/72VT8W) |
