@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T18:27:46.091Z",
+  "generatedAt": "2026-10-30T00:58:00.678Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "5 found"
+    "Reclub": "6 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
@@ -40,7 +40,7 @@
       "spots": 0,
       "price": "Free",
       "id": "reclub:0A5RIE",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -57,7 +57,7 @@
       "spots": 0,
       "price": "5 SGD",
       "id": "reclub:FFOCVF",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -74,7 +74,7 @@
       "spots": 3,
       "price": "8 SGD",
       "id": "reclub:PP3SAZ",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -92,6 +92,23 @@
       "price": "28 SGD",
       "id": "reclub:9KSLXM",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "The Sports Arina (Expo) HALL 10",
+      "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
+      "title": "Novice and Beginner Class (2/5)",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/MI9MZH",
+      "start": "2026-11-06T08:00:00+08:00",
+      "end": "2026-11-06T10:00:00+08:00",
+      "capacity": 9,
+      "spots": 8,
+      "price": "28 SGD",
+      "id": "reclub:MI9MZH",
+      "isNew": true
     }
   ]
 }
