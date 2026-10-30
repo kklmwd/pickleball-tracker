@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:58:00.678Z",
+  "generatedAt": "2026-10-30T09:58:24.868Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "6 found"
@@ -14,16 +14,16 @@
       "area": "East",
       "venue": "The Sports Arina (Expo) HALL 10",
       "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
-      "title": "Novice and Beginner Class (1/5)",
-      "club": "east-coast-plan",
-      "url": "https://reclub.co/m/4LT3A4",
-      "start": "2026-10-30T08:00:00+08:00",
-      "end": "2026-10-30T10:00:00+08:00",
-      "capacity": 9,
-      "spots": 3,
-      "price": "34 SGD",
-      "id": "reclub:4LT3A4",
-      "isNew": false
+      "title": "[Last Min] TGIF - Social pickle game @ TSA EXPO",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/07JWCC",
+      "start": "2026-10-30T19:00:00+08:00",
+      "end": "2026-10-30T20:00:00+08:00",
+      "capacity": 4,
+      "spots": 2,
+      "price": "14 SGD",
+      "id": "reclub:07JWCC",
+      "isNew": true
     },
     {
       "source": "reclub",
@@ -108,7 +108,7 @@
       "spots": 8,
       "price": "28 SGD",
       "id": "reclub:MI9MZH",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
