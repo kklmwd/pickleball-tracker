@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-01T13:18:23.051Z",
+  "generatedAt": "2026-11-01T19:38:22.151Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "9 found"
+    "Reclub": "8 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
@@ -23,7 +23,7 @@
       "spots": 0,
       "price": "10 SGD",
       "id": "reclub:OV6AMZ",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -40,7 +40,7 @@
       "spots": 0,
       "price": "12 SGD",
       "id": "reclub:5R30D2",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -57,7 +57,7 @@
       "spots": 0,
       "price": "107.28 SGD",
       "id": "reclub:67943R",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -74,7 +74,7 @@
       "spots": 1,
       "price": "12 SGD",
       "id": "reclub:SIUW3G",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -108,24 +108,7 @@
       "spots": 1,
       "price": "107.28 SGD",
       "id": "reclub:DHX1BU",
-      "isNew": true
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Tanah Merah Country Club Garden Course",
-      "address": "1 Tanah Merah Coast Road, Singapore",
-      "title": " Dyson showers 2.75-3.75",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/NAYODR",
-      "start": "2026-11-04T18:55:00+08:00",
-      "end": "2026-11-04T20:55:00+08:00",
-      "capacity": 6,
-      "spots": 1,
-      "price": "6 SGD",
-      "id": "reclub:NAYODR",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -156,10 +139,10 @@
       "start": "2026-11-06T16:00:00+08:00",
       "end": "2026-11-06T18:00:00+08:00",
       "capacity": 11,
-      "spots": 5,
+      "spots": 4,
       "price": "Free",
       "id": "reclub:UN4N1J",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
