@@ -1,6 +1,6 @@
 # Pickleball sessions: East & Jalan Kayu
 
-Updated 1 Nov 2026, 3:17 am SGT. 🆕 = first seen this run.
+Updated 1 Nov 2026, 8:06 am SGT. 🆕 = first seen this run.
 
 **Playtomic**: failed · **Reclub**: 5 found
 
