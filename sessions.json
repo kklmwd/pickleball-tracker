@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T10:59:55.855Z",
+  "generatedAt": "2026-11-02T21:42:51.988Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "9 found"
@@ -8,40 +8,6 @@
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
-      "address": "10 Tebing Lane, Singapore",
-      "title": "Pickleball Social with Patrick",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/OV6AMZ",
-      "start": "2026-11-02T19:00:00+08:00",
-      "end": "2026-11-02T21:00:00+08:00",
-      "capacity": 8,
-      "spots": 0,
-      "price": "10 SGD",
-      "id": "reclub:OV6AMZ",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "Jalan Kayu",
-      "venue": "The Sports Arina @ Jalan Kayu",
-      "address": "20a Fernvale Road, Singapore",
-      "title": "2 Nov Evening pickleball @ Jalan Kayu",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/5R30D2",
-      "start": "2026-11-02T20:00:00+08:00",
-      "end": "2026-11-02T22:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
-      "price": "12 SGD",
-      "id": "reclub:5R30D2",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -125,6 +91,40 @@
       "spots": 1,
       "price": "6 SGD",
       "id": "reclub:NAYODR",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "Jalan Kayu",
+      "venue": "The Sports Arina @ Jalan Kayu",
+      "address": "20a Fernvale Road, Singapore",
+      "title": "4 Nov Evening pickleball @ Jalan Kayu",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/85KX66",
+      "start": "2026-11-04T20:00:00+08:00",
+      "end": "2026-11-04T22:00:00+08:00",
+      "capacity": 7,
+      "spots": 0,
+      "price": "12 SGD",
+      "id": "reclub:85KX66",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "TSA Expo Hall 10",
+      "address": "Somapah Road, Singapore",
+      "title": "High Intermediate Games @ Expo TSA",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/S2PB5X",
+      "start": "2026-11-05T11:00:00+08:00",
+      "end": "2026-11-05T14:00:00+08:00",
+      "capacity": 6,
+      "spots": 1,
+      "price": "107.28 SGD",
+      "id": "reclub:S2PB5X",
       "isNew": true
     },
     {
