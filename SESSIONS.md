@@ -1,6 +1,6 @@
 # Pickleball sessions: East & Jalan Kayu
 
-Updated 4 Nov 2026, 10:37 pm SGT. 🆕 = first seen this run.
+Updated 5 Nov 2026, 5:19 am SGT. 🆕 = first seen this run.
 
 **Playtomic**: failed · **Reclub**: 5 found
 
@@ -12,7 +12,7 @@ Updated 4 Nov 2026, 10:37 pm SGT. 🆕 = first seen this run.
 | Fri, 6 Nov 08:00–10:00 | East | PickleX | Pickleball Social with Guan | 5/6 |  | [Reclub](https://reclub.co/m/VJ312V) |
 | Fri, 6 Nov 09:00–11:00 | East | The Sports Arina (Expo) HALL 10 | Novice and Beginner Class (2/5) | 3/9 | 28 SGD | [Reclub](https://reclub.co/m/MI9MZH) |
 | Fri, 6 Nov 16:00–18:00 | East | Aida Park | DUPR for NR (Doubles) by Pickle Vibes | 2/11 | Free | [Reclub](https://reclub.co/m/UN4N1J) |
-| 🆕 Sat, 7 Nov 09:00–12:00 | East | Block 106 HDB Aljunied | Pickleball at 106 Aljunied Crescent Sheltered Court | 0/8 | Free | [Reclub](https://reclub.co/m/FJYW1J) |
+| Sat, 7 Nov 09:00–12:00 | East | Block 106 HDB Aljunied | Pickleball at 106 Aljunied Crescent Sheltered Court | 0/8 | Free | [Reclub](https://reclub.co/m/FJYW1J) |
 
 ## Free courts (Playtomic)
 
