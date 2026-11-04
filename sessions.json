@@ -1,47 +1,13 @@
 {
-  "generatedAt": "2026-11-04T06:15:49.268Z",
+  "generatedAt": "2026-11-04T14:37:34.414Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "6 found"
+    "Reclub": "5 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Tanah Merah Country Club Garden Course",
-      "address": "1 Tanah Merah Coast Road, Singapore",
-      "title": " Dyson showers 2.75-3.75",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/NAYODR",
-      "start": "2026-11-04T18:55:00+08:00",
-      "end": "2026-11-04T20:55:00+08:00",
-      "capacity": 6,
-      "spots": 1,
-      "price": "6 SGD",
-      "id": "reclub:NAYODR",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "Jalan Kayu",
-      "venue": "The Sports Arina @ Jalan Kayu",
-      "address": "20a Fernvale Road, Singapore",
-      "title": "4 Nov Evening pickleball @ Jalan Kayu",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/85KX66",
-      "start": "2026-11-04T20:00:00+08:00",
-      "end": "2026-11-04T22:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
-      "price": "12 SGD",
-      "id": "reclub:85KX66",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -74,7 +40,7 @@
       "spots": 5,
       "price": null,
       "id": "reclub:VJ312V",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -88,7 +54,7 @@
       "start": "2026-11-06T09:00:00+08:00",
       "end": "2026-11-06T11:00:00+08:00",
       "capacity": 9,
-      "spots": 4,
+      "spots": 3,
       "price": "28 SGD",
       "id": "reclub:MI9MZH",
       "isNew": false
@@ -109,6 +75,23 @@
       "price": "Free",
       "id": "reclub:UN4N1J",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Block 106 HDB Aljunied",
+      "address": "106 Aljunied Crescent, Singapore",
+      "title": "Pickleball at 106 Aljunied Crescent Sheltered Court",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/FJYW1J",
+      "start": "2026-11-07T09:00:00+08:00",
+      "end": "2026-11-07T12:00:00+08:00",
+      "capacity": 8,
+      "spots": 0,
+      "price": "Free",
+      "id": "reclub:FJYW1J",
+      "isNew": true
     }
   ]
 }
