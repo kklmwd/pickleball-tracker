@@ -1,64 +1,13 @@
 {
-  "generatedAt": "2026-11-06T06:39:33.427Z",
+  "generatedAt": "2026-11-06T16:44:47.632Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "7 found"
+    "Reclub": "6 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Block 408 Hougang Ave 10",
-      "address": "408 Hougang Avenue 10, Singapore",
-      "title": "Pickleball Social with Glenn",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/L3RDVH",
-      "start": "2026-11-06T14:00:00+08:00",
-      "end": "2026-11-06T16:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
-      "price": "0 SGD",
-      "id": "reclub:L3RDVH",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "TSA @ Singapore EXPO Hall 10",
-      "address": "1 Expo Drive, Singapore 486150",
-      "title": "Last Min Jio 🍌! 1C2H Fixed Doubles (Mixed/Men/Women)",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/9ORGJE",
-      "start": "2026-11-06T14:00:00+08:00",
-      "end": "2026-11-06T16:00:00+08:00",
-      "capacity": 6,
-      "spots": 0,
-      "price": "10 SGD",
-      "id": "reclub:9ORGJE",
-      "isNew": true
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Aida Park",
-      "address": "Aida St, Singapore",
-      "title": "DUPR for NR (Doubles) by Pickle Vibes",
-      "club": "east-coast-plan",
-      "url": "https://reclub.co/m/UN4N1J",
-      "start": "2026-11-06T16:00:00+08:00",
-      "end": "2026-11-06T18:00:00+08:00",
-      "capacity": 11,
-      "spots": 3,
-      "price": "Free",
-      "id": "reclub:UN4N1J",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -75,6 +24,23 @@
       "price": "Free",
       "id": "reclub:FJYW1J",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Singapore EXPO",
+      "address": "1 Expo Drive, Singapore",
+      "title": "Pickleball Social with Ariane",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/M41KLO",
+      "start": "2026-11-07T11:00:00+08:00",
+      "end": "2026-11-07T12:00:00+08:00",
+      "capacity": 2,
+      "spots": 0,
+      "price": "Free",
+      "id": "reclub:M41KLO",
+      "isNew": true
     },
     {
       "source": "reclub",
@@ -114,6 +80,23 @@
       "source": "reclub",
       "kind": "meet",
       "area": "East",
+      "venue": "Pasir Ris Primary School",
+      "address": "5 Pasir Ris Street 21, Singapore",
+      "title": "Pickleball @ Pasir Ris Primary School ",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/V4W6YE",
+      "start": "2026-11-07T19:00:00+08:00",
+      "end": "2026-11-07T21:00:00+08:00",
+      "capacity": 6,
+      "spots": 0,
+      "price": "4 SGD",
+      "id": "reclub:V4W6YE",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
       "venue": "The Sports Arina (Expo) HALL 10",
       "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
       "title": "Novice and Beginner Class (3/5)",
@@ -125,7 +108,7 @@
       "spots": 8,
       "price": "28 SGD",
       "id": "reclub:PUR2L8",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
