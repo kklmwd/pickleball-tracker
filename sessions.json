@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T12:57:19.686Z",
+  "generatedAt": "2026-11-07T19:24:59.996Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "3 found"
+    "Reclub": "5 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
@@ -23,7 +23,7 @@
       "spots": 0,
       "price": "4 SGD",
       "id": "reclub:828WPI",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -37,9 +37,43 @@
       "start": "2026-11-08T18:00:00+08:00",
       "end": "2026-11-08T20:00:00+08:00",
       "capacity": 7,
-      "spots": 3,
+      "spots": 0,
       "price": "8 SGD",
       "id": "reclub:BXCC74",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "Jalan Kayu",
+      "venue": "The Sports Arina @ Jalan Kayu",
+      "address": "20a Fernvale Road, Singapore",
+      "title": "[2H, $15] Pickleball Social @ Jalan Kayu",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/YDCXLC",
+      "start": "2026-11-08T18:00:00+08:00",
+      "end": "2026-11-08T20:00:00+08:00",
+      "capacity": 6,
+      "spots": 2,
+      "price": "15 SGD",
+      "id": "reclub:YDCXLC",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
+      "address": "10 Tebing Lane, Singapore",
+      "title": "Pickleball Social with Patrick",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/JM1F3I",
+      "start": "2026-11-09T10:00:00+08:00",
+      "end": "2026-11-09T12:00:00+08:00",
+      "capacity": 8,
+      "spots": 0,
+      "price": "10 SGD",
+      "id": "reclub:JM1F3I",
       "isNew": true
     },
     {
