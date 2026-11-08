@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:54:58.897Z",
+  "generatedAt": "2026-11-08T22:01:23.481Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "5 found"
@@ -40,7 +40,7 @@
       "spots": 5,
       "price": "Free",
       "id": "reclub:3NY7ND",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -74,7 +74,7 @@
       "spots": 0,
       "price": "13 SGD",
       "id": "reclub:ON1LHQ",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
