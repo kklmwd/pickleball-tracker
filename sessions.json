@@ -1,30 +1,13 @@
 {
-  "generatedAt": "2026-11-08T22:01:23.481Z",
+  "generatedAt": "2026-11-09T06:21:57.529Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "5 found"
+    "Reclub": "7 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
-      "address": "10 Tebing Lane, Singapore",
-      "title": "Pickleball Social with Patrick",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/JM1F3I",
-      "start": "2026-11-09T10:00:00+08:00",
-      "end": "2026-11-09T12:00:00+08:00",
-      "capacity": 8,
-      "spots": 0,
-      "price": "10 SGD",
-      "id": "reclub:JM1F3I",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -37,7 +20,7 @@
       "start": "2026-11-09T15:00:00+08:00",
       "end": "2026-11-09T18:00:00+08:00",
       "capacity": 7,
-      "spots": 5,
+      "spots": 2,
       "price": "Free",
       "id": "reclub:3NY7ND",
       "isNew": false
@@ -80,6 +63,23 @@
       "source": "reclub",
       "kind": "meet",
       "area": "East",
+      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
+      "address": "750a Chai Chee Road, #8th Floor, Singapore",
+      "title": "10 Nov / 7-9 pm ",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/WF87P8",
+      "start": "2026-11-10T19:00:00+08:00",
+      "end": "2026-11-10T21:00:00+08:00",
+      "capacity": 12,
+      "spots": 0,
+      "price": "12 SGD",
+      "id": "reclub:WF87P8",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
       "venue": "The Sports Arina (Expo) HALL 10",
       "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
       "title": "Novice and Beginner Class (3/5)",
@@ -92,6 +92,40 @@
       "price": "28 SGD",
       "id": "reclub:PUR2L8",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "The Sports Arina (Expo) HALL 10",
+      "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
+      "title": "NINJAS DUPR(NR) Singles match",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/V4N7TN",
+      "start": "2026-11-16T08:00:00+08:00",
+      "end": "2026-11-16T09:00:00+08:00",
+      "capacity": 6,
+      "spots": 0,
+      "price": "7 SGD",
+      "id": "reclub:V4N7TN",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "The Sports Arina (Expo) HALL 10",
+      "address": "9 Somapah Road, Hall 10 Singapore Expo, Singapore 487370",
+      "title": "NINJAS DUPR(NR) Doubles match",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/1S3W78",
+      "start": "2026-11-16T09:00:00+08:00",
+      "end": "2026-11-16T11:00:00+08:00",
+      "capacity": 8,
+      "spots": 0,
+      "price": "12 SGD",
+      "id": "reclub:1S3W78",
+      "isNew": true
     }
   ]
 }
