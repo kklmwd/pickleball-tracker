@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:33:34.127Z",
+  "generatedAt": "2026-11-10T14:50:39.727Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "5 found"
@@ -51,10 +51,10 @@
       "title": "Novice and Beginner Class (3/5)",
       "club": "east-coast-plan",
       "url": "https://reclub.co/m/PUR2L8",
-      "start": "2026-11-13T09:00:00+08:00",
-      "end": "2026-11-13T11:00:00+08:00",
+      "start": "2026-11-13T08:00:00+08:00",
+      "end": "2026-11-13T10:00:00+08:00",
       "capacity": 9,
-      "spots": 8,
+      "spots": 3,
       "price": "28 SGD",
       "id": "reclub:PUR2L8",
       "isNew": false
