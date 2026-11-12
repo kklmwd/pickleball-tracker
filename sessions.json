@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T07:07:26.460Z",
+  "generatedAt": "2026-11-12T17:34:30.463Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "6 found"
+    "Reclub": "8 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
@@ -37,7 +37,7 @@
       "start": "2026-11-13T08:00:00+08:00",
       "end": "2026-11-13T10:00:00+08:00",
       "capacity": 5,
-      "spots": 1,
+      "spots": 0,
       "price": "50 SGD",
       "id": "reclub:U6MQD4",
       "isNew": false
@@ -57,6 +57,40 @@
       "spots": 0,
       "price": "Free",
       "id": "reclub:RZ740C",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Pasir Ris Primary School",
+      "address": "5 Pasir Ris Street 21, Singapore",
+      "title": "[2H2C] • Dink Drive Drop 🥒🎾🐰",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/ND7NQ4",
+      "start": "2026-11-14T17:00:00+08:00",
+      "end": "2026-11-14T19:00:00+08:00",
+      "capacity": 13,
+      "spots": 2,
+      "price": "8 SGD",
+      "id": "reclub:ND7NQ4",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Pasir Ris Primary School",
+      "address": "5 Pasir Ris Street 21, Singapore",
+      "title": "Pickleball @ Pasir Ris Primary School ",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/65Z2FK",
+      "start": "2026-11-14T18:00:00+08:00",
+      "end": "2026-11-14T20:00:00+08:00",
+      "capacity": 6,
+      "spots": 0,
+      "price": "4 SGD",
+      "id": "reclub:65Z2FK",
       "isNew": true
     },
     {
@@ -108,7 +142,7 @@
       "spots": 8,
       "price": "28 SGD",
       "id": "reclub:HAJCG0",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
