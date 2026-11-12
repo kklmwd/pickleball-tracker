@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T17:34:30.463Z",
+  "generatedAt": "2026-11-12T23:37:06.055Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "8 found"
+    "Reclub": "9 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
@@ -74,7 +74,7 @@
       "spots": 2,
       "price": "8 SGD",
       "id": "reclub:ND7NQ4",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -91,7 +91,7 @@
       "spots": 0,
       "price": "4 SGD",
       "id": "reclub:65Z2FK",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -143,6 +143,23 @@
       "price": "28 SGD",
       "id": "reclub:HAJCG0",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "TSA @ Singapore EXPO Hall 10",
+      "address": "1 Expo Drive, Singapore 486150",
+      "title": "Competitive Ranked Social",
+      "club": "east-coast-plan",
+      "url": "https://reclub.co/m/TALDJ1",
+      "start": "2026-11-20T07:00:00+08:00",
+      "end": "2026-11-20T09:00:00+08:00",
+      "capacity": 6,
+      "spots": 5,
+      "price": "15 SGD",
+      "id": "reclub:TALDJ1",
+      "isNew": true
     }
   ]
 }
