@@ -1,47 +1,13 @@
 {
-  "generatedAt": "2026-11-15T06:25:50.709Z",
+  "generatedAt": "2026-11-15T16:20:02.886Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "10 found"
+    "Reclub": "9 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Pasir Ris Primary School",
-      "address": "5 Pasir Ris Street 21, Singapore",
-      "title": "Pickle Champs 🥒🏆1️⃣",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/SHGZ02",
-      "start": "2026-11-15T17:00:00+08:00",
-      "end": "2026-11-15T19:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
-      "price": "8 SGD",
-      "id": "reclub:SHGZ02",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Pasir Ris Primary School",
-      "address": "5 Pasir Ris Street 21, Singapore",
-      "title": "Pickleball @ Pasir Ris Primary School ",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/A5BNHS",
-      "start": "2026-11-15T18:00:00+08:00",
-      "end": "2026-11-15T20:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
-      "price": "4 SGD",
-      "id": "reclub:A5BNHS",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -108,7 +74,7 @@
       "spots": 2,
       "price": "11.7 SGD",
       "id": "reclub:U9ESS1",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -122,9 +88,26 @@
       "start": "2026-11-16T19:00:00+08:00",
       "end": "2026-11-16T21:00:00+08:00",
       "capacity": 8,
-      "spots": 1,
+      "spots": 0,
       "price": "10 SGD",
       "id": "reclub:47H1TX",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Victory Centre, 110 Lorong 23 Geylang (near Aljunied MRT)",
+      "address": "110 Lor 23 Geylang, Victory Centre, Singapore 388410",
+      "title": "Monday no Blue Social PickleBall 🥒 🥎 ",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/0FFVGG",
+      "start": "2026-11-16T19:00:00+08:00",
+      "end": "2026-11-16T21:30:00+08:00",
+      "capacity": 8,
+      "spots": 0,
+      "price": "11 SGD",
+      "id": "reclub:0FFVGG",
       "isNew": true
     },
     {
@@ -156,7 +139,7 @@
       "start": "2026-11-20T07:00:00+08:00",
       "end": "2026-11-20T09:00:00+08:00",
       "capacity": 6,
-      "spots": 5,
+      "spots": 4,
       "price": "15 SGD",
       "id": "reclub:TALDJ1",
       "isNew": false
@@ -173,7 +156,7 @@
       "start": "2026-11-21T20:00:00+08:00",
       "end": "2026-11-21T22:00:00+08:00",
       "capacity": 7,
-      "spots": 4,
+      "spots": 2,
       "price": "2 SGD",
       "id": "reclub:7DQTNJ",
       "isNew": false
