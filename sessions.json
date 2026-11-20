@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:17:58.841Z",
+  "generatedAt": "2026-11-20T11:34:07.764Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "4 found"
@@ -14,13 +14,13 @@
       "area": "East",
       "venue": "Blk 526",
       "address": "526 Pasir Ris Street 51, Singapore 510534",
-      "title": "[Caged Court] (FREE) Friday Pikaboll for Easties",
+      "title": "[Caged Court] (Last Slot) Friday Pikaboll for Easties",
       "club": "pickleball-players-sg",
       "url": "https://reclub.co/m/N15K73",
       "start": "2026-11-20T18:45:00+08:00",
       "end": "2026-11-20T20:45:00+08:00",
       "capacity": 8,
-      "spots": 3,
+      "spots": 0,
       "price": "0 SGD",
       "id": "reclub:N15K73",
       "isNew": false
@@ -54,7 +54,7 @@
       "start": "2026-11-20T20:00:00+08:00",
       "end": "2026-11-20T22:00:00+08:00",
       "capacity": 7,
-      "spots": 3,
+      "spots": 0,
       "price": "12 SGD",
       "id": "reclub:XFLB5J",
       "isNew": false
