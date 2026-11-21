@@ -1,30 +1,13 @@
 {
-  "generatedAt": "2026-11-20T20:13:30.180Z",
+  "generatedAt": "2026-11-21T02:12:01.986Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "5 found"
   },
   "warnings": [
-    "Playtomic failed: 404 Not Found for https://playtomic.com/api/v1/tenants?sport_id=PICKLEBALL&coordinate=1.3521%2C103.8198&radius=30000&size=100&page=0 (<!DOCTYPE html><html id=\"__next_error__\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\")"
+    "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Block 106 HDB Aljunied",
-      "address": "106 Aljunied Crescent, Singapore",
-      "title": "Pickleball at 106 Aljunied Crescent Sheltered Court",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/CNLET4",
-      "start": "2026-11-21T09:00:00+08:00",
-      "end": "2026-11-21T12:00:00+08:00",
-      "capacity": 8,
-      "spots": 0,
-      "price": "Free",
-      "id": "reclub:CNLET4",
-      "isNew": true
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -40,7 +23,7 @@
       "spots": 0,
       "price": "Free",
       "id": "reclub:89L8YM",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -57,7 +40,7 @@
       "spots": 0,
       "price": "4 SGD",
       "id": "reclub:FSHH8M",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -74,7 +57,7 @@
       "spots": 7,
       "price": "4 SGD",
       "id": "reclub:631FTH",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -87,11 +70,28 @@
       "url": "https://reclub.co/m/7DQTNJ",
       "start": "2026-11-21T20:00:00+08:00",
       "end": "2026-11-21T22:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
+      "capacity": 8,
+      "spots": 2,
       "price": "2 SGD",
       "id": "reclub:7DQTNJ",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Civil Service Club @ Changi",
+      "address": "2 Netheravon Road, Singapore",
+      "title": "2H2C Pickle Fun Night 🌟",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/4ZC1X6",
+      "start": "2026-11-21T20:00:00+08:00",
+      "end": "2026-11-21T22:00:00+08:00",
+      "capacity": 14,
+      "spots": 0,
+      "price": "3 SGD",
+      "id": "reclub:4ZC1X6",
+      "isNew": true
     }
   ]
 }
