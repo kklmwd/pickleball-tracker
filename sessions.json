@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:16:52.863Z",
+  "generatedAt": "2026-11-22T11:18:43.664Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "7 found"
@@ -8,57 +8,6 @@
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Damai Secondary School",
-      "address": "4800 Bedok Reservoir Road, Singapore",
-      "title": "Pickleball Social with CCL",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/8IEUV8",
-      "start": "2026-11-22T13:00:00+08:00",
-      "end": "2026-11-22T15:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
-      "price": "3.5 SGD",
-      "id": "reclub:8IEUV8",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Pasir Ris Primary School",
-      "address": "5 Pasir Ris Street 21, Singapore",
-      "title": "Pickleball @ Pasir Ris Primary School ",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/1QDZEC",
-      "start": "2026-11-22T17:00:00+08:00",
-      "end": "2026-11-22T19:00:00+08:00",
-      "capacity": 7,
-      "spots": 0,
-      "price": "4 SGD",
-      "id": "reclub:1QDZEC",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Pasir Ris Primary School",
-      "address": "5 Pasir Ris Street 21, Singapore",
-      "title": "Funday Pickleball 🥒🏓",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/VPFI57",
-      "start": "2026-11-22T18:00:00+08:00",
-      "end": "2026-11-22T20:00:00+08:00",
-      "capacity": 8,
-      "spots": 0,
-      "price": "8 SGD",
-      "id": "reclub:VPFI57",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -71,8 +20,8 @@
       "start": "2026-11-22T21:00:00+08:00",
       "end": "2026-11-22T23:00:00+08:00",
       "capacity": 8,
-      "spots": 3,
-      "price": "63 SGD",
+      "spots": 2,
+      "price": "Free",
       "id": "reclub:0KYH3O",
       "isNew": false
     },
@@ -97,6 +46,23 @@
       "source": "reclub",
       "kind": "meet",
       "area": "East",
+      "venue": "Block 392 HDB Tampines",
+      "address": "392 Tampines Avenue 7, Singapore",
+      "title": "🍙 Intermediate Social with Daren! ",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/2WZATN",
+      "start": "2026-11-23T16:00:00+08:00",
+      "end": "2026-11-23T19:00:00+08:00",
+      "capacity": 7,
+      "spots": 3,
+      "price": "1 SGD",
+      "id": "reclub:2WZATN",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
       "venue": "Play! Pickle (Pickleball + Tennis Academy)",
       "address": "10 Tebing Lane, Singapore",
       "title": "Pickleball Social with Patrick",
@@ -114,6 +80,40 @@
       "source": "reclub",
       "kind": "meet",
       "area": "East",
+      "venue": "Paya Lebar MRT Station (EW8)",
+      "address": "30 Paya Lebar Road, Singapore",
+      "title": "Tuesday Indoor Social🧩2Courts;2HOUR Fun ❄️Aircon",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/KJPILX",
+      "start": "2026-11-24T18:30:00+08:00",
+      "end": "2026-11-24T20:30:00+08:00",
+      "capacity": 15,
+      "spots": 5,
+      "price": "16 SGD",
+      "id": "reclub:KJPILX",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
+      "address": "750a Chai Chee Road, #8th Floor, Singapore",
+      "title": "24 Nov / 7-9 pm ",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/WXZ4LX",
+      "start": "2026-11-24T19:00:00+08:00",
+      "end": "2026-11-24T21:00:00+08:00",
+      "capacity": 12,
+      "spots": 1,
+      "price": "12 SGD",
+      "id": "reclub:WXZ4LX",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
       "venue": "Civil Service Club @ Changi",
       "address": "2 Netheravon Road, Singapore",
       "title": "Social Doubles at Changi CSC Court 3",
@@ -122,10 +122,10 @@
       "start": "2026-11-28T20:00:00+08:00",
       "end": "2026-11-28T22:00:00+08:00",
       "capacity": 8,
-      "spots": 7,
+      "spots": 6,
       "price": "2 SGD",
       "id": "reclub:CI7IGV",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
