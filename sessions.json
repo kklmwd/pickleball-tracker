@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:18:43.664Z",
+  "generatedAt": "2026-11-22T19:35:34.573Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "7 found"
@@ -8,23 +8,6 @@
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "Jalan Kayu",
-      "venue": "The Sports Arina @ Jalan Kayu",
-      "address": "20a Fernvale Road, Singapore",
-      "title": "Pickleball session",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/0KYH3O",
-      "start": "2026-11-22T21:00:00+08:00",
-      "end": "2026-11-22T23:00:00+08:00",
-      "capacity": 8,
-      "spots": 2,
-      "price": "Free",
-      "id": "reclub:0KYH3O",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -54,10 +37,10 @@
       "start": "2026-11-23T16:00:00+08:00",
       "end": "2026-11-23T19:00:00+08:00",
       "capacity": 7,
-      "spots": 3,
+      "spots": 1,
       "price": "1 SGD",
       "id": "reclub:2WZATN",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -91,7 +74,7 @@
       "spots": 5,
       "price": "16 SGD",
       "id": "reclub:KJPILX",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -108,6 +91,23 @@
       "spots": 1,
       "price": "12 SGD",
       "id": "reclub:WXZ4LX",
+      "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "ActiveSG Sport Park @ Bedok North",
+      "address": "3 Bedok North Street 2, Singapore",
+      "title": "Pickleball @ Bedok North",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/WAU0DZ",
+      "start": "2026-11-25T19:00:00+08:00",
+      "end": "2026-11-25T21:00:00+08:00",
+      "capacity": 7,
+      "spots": 0,
+      "price": "4 SGD",
+      "id": "reclub:WAU0DZ",
       "isNew": true
     },
     {
@@ -122,7 +122,7 @@
       "start": "2026-11-28T20:00:00+08:00",
       "end": "2026-11-28T22:00:00+08:00",
       "capacity": 8,
-      "spots": 6,
+      "spots": 4,
       "price": "2 SGD",
       "id": "reclub:CI7IGV",
       "isNew": false
