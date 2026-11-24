@@ -1,47 +1,13 @@
 {
-  "generatedAt": "2026-11-24T02:11:20.226Z",
+  "generatedAt": "2026-11-24T13:39:16.252Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "5 found"
+    "Reclub": "4 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Wisma Geylang Serai",
-      "address": "1 Engku Aman Turn, Singapore",
-      "title": "Tuesday Indoor Social @ PAYA LEBAR🧩2Courts;2HOUR Fun ❄️Aircon",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/KJPILX",
-      "start": "2026-11-24T18:30:00+08:00",
-      "end": "2026-11-24T20:30:00+08:00",
-      "capacity": 15,
-      "spots": 0,
-      "price": "16 SGD",
-      "id": "reclub:KJPILX",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
-      "address": "750a Chai Chee Road, #8th Floor, Singapore",
-      "title": "24 Nov / 7-9 pm ",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/WXZ4LX",
-      "start": "2026-11-24T19:00:00+08:00",
-      "end": "2026-11-24T21:00:00+08:00",
-      "capacity": 12,
-      "spots": 2,
-      "price": "12 SGD",
-      "id": "reclub:WXZ4LX",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -71,10 +37,27 @@
       "start": "2026-11-25T19:00:00+08:00",
       "end": "2026-11-25T21:00:00+08:00",
       "capacity": 12,
-      "spots": 1,
+      "spots": 0,
       "price": "12 SGD",
       "id": "reclub:4BAART",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Geylang Serai CC",
+      "address": "1 Engku Aman Road, Singapore 409923",
+      "title": "Indoor Social @ PAYA LEBAR 🧩2HOUR Fun ❄️Aircon",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/YFFJJP",
+      "start": "2026-11-26T17:30:00+08:00",
+      "end": "2026-11-26T19:30:00+08:00",
+      "capacity": 7,
+      "spots": 2,
+      "price": "14 SGD",
+      "id": "reclub:YFFJJP",
+      "isNew": true
     },
     {
       "source": "reclub",
