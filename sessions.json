@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:52:55.146Z",
+  "generatedAt": "2026-11-25T08:28:49.081Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "4 found"
@@ -29,23 +29,6 @@
       "source": "reclub",
       "kind": "meet",
       "area": "East",
-      "venue": "Play! Pickle (Pickleball + Tennis Academy)",
-      "address": "750a Chai Chee Road, #8th Floor, Singapore",
-      "title": "25 Nov / 7-9 pm ",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/4BAART",
-      "start": "2026-11-25T19:00:00+08:00",
-      "end": "2026-11-25T21:00:00+08:00",
-      "capacity": 12,
-      "spots": 0,
-      "price": "12 SGD",
-      "id": "reclub:4BAART",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
       "venue": "Geylang Serai CC",
       "address": "1 Engku Aman Road, Singapore 409923",
       "title": "Indoor Social @ PAYA LEBAR 🧩2HOUR Fun ❄️Aircon",
@@ -58,6 +41,23 @@
       "price": "14 SGD",
       "id": "reclub:YFFJJP",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "Jalan Kayu",
+      "venue": "The Sports Arina @ Jalan Kayu",
+      "address": "20a Fernvale Road, Singapore",
+      "title": "Friday Morning Intermediate Play 2hours",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/IZV2ZY",
+      "start": "2026-11-27T08:00:00+08:00",
+      "end": "2026-11-27T10:00:00+08:00",
+      "capacity": 5,
+      "spots": 0,
+      "price": "10 SGD",
+      "id": "reclub:IZV2ZY",
+      "isNew": true
     },
     {
       "source": "reclub",
