@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:14:27.601Z",
+  "generatedAt": "2026-11-26T03:32:27.850Z",
   "sources": {
     "Playtomic": "failed",
     "Reclub": "5 found"
@@ -57,7 +57,7 @@
       "spots": 5,
       "price": "1 SGD",
       "id": "reclub:TTSZER",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -74,7 +74,7 @@
       "spots": 0,
       "price": "5 SGD",
       "id": "reclub:EJLB5P",
-      "isNew": true
+      "isNew": false
     },
     {
       "source": "reclub",
@@ -88,7 +88,7 @@
       "start": "2026-11-28T20:00:00+08:00",
       "end": "2026-11-28T22:00:00+08:00",
       "capacity": 8,
-      "spots": 2,
+      "spots": 1,
       "price": "2 SGD",
       "id": "reclub:CI7IGV",
       "isNew": false
