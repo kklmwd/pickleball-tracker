@@ -1,30 +1,13 @@
 {
-  "generatedAt": "2026-11-26T03:32:27.850Z",
+  "generatedAt": "2026-11-26T16:51:14.229Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "5 found"
+    "Reclub": "7 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Geylang Serai CC",
-      "address": "1 Engku Aman Road, Singapore 409923",
-      "title": "Indoor Social @ PAYA LEBAR 🧩2HOUR Fun ❄️Aircon",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/YFFJJP",
-      "start": "2026-11-26T17:30:00+08:00",
-      "end": "2026-11-26T19:30:00+08:00",
-      "capacity": 8,
-      "spots": 1,
-      "price": "14 SGD",
-      "id": "reclub:YFFJJP",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -80,6 +63,57 @@
       "source": "reclub",
       "kind": "meet",
       "area": "East",
+      "venue": "Block 106 HDB Aljunied",
+      "address": "106 Aljunied Crescent, Singapore",
+      "title": "Pickleball at 106 Aljunied Crescent Sheltered Court",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/B4J7D6",
+      "start": "2026-11-28T09:00:00+08:00",
+      "end": "2026-11-28T12:00:00+08:00",
+      "capacity": 8,
+      "spots": 0,
+      "price": "Free",
+      "id": "reclub:B4J7D6",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Changkat Primary",
+      "address": "Singapore 529896",
+      "title": "PB Social (2.75+) @ Changkat Pri with BW",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/YVUHT5",
+      "start": "2026-11-28T16:00:00+08:00",
+      "end": "2026-11-28T18:00:00+08:00",
+      "capacity": 7,
+      "spots": 3,
+      "price": "3 SGD",
+      "id": "reclub:YVUHT5",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Pasir Ris Primary School",
+      "address": "5 Pasir Ris Street 21, Singapore",
+      "title": "[2H2C] • Pickleball Socials 🥒🎾",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/UF84UY",
+      "start": "2026-11-28T17:00:00+08:00",
+      "end": "2026-11-28T19:00:00+08:00",
+      "capacity": 12,
+      "spots": 0,
+      "price": "8 SGD",
+      "id": "reclub:UF84UY",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
       "venue": "Civil Service Club @ Changi",
       "address": "2 Netheravon Road, Singapore",
       "title": "Social Doubles at Changi CSC Court 3",
@@ -88,7 +122,7 @@
       "start": "2026-11-28T20:00:00+08:00",
       "end": "2026-11-28T22:00:00+08:00",
       "capacity": 8,
-      "spots": 1,
+      "spots": 2,
       "price": "2 SGD",
       "id": "reclub:CI7IGV",
       "isNew": false
