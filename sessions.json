@@ -1,81 +1,13 @@
 {
-  "generatedAt": "2026-11-28T03:19:33.874Z",
+  "generatedAt": "2026-11-28T15:28:43.076Z",
   "sources": {
     "Playtomic": "failed",
-    "Reclub": "5 found"
+    "Reclub": "3 found"
   },
   "warnings": [
     "Playtomic failed: https://playtomic.com/api/v1 blocked this network (403)"
   ],
   "sessions": [
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Changkat Primary",
-      "address": "Singapore 529896",
-      "title": "PB Social (2.75+) @ Changkat Pri with BW",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/YVUHT5",
-      "start": "2026-11-28T16:00:00+08:00",
-      "end": "2026-11-28T18:00:00+08:00",
-      "capacity": 7,
-      "spots": 3,
-      "price": "3 SGD",
-      "id": "reclub:YVUHT5",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Pasir Ris Primary School",
-      "address": "5 Pasir Ris Street 21, Singapore",
-      "title": "[2H2C] • Pickleball Socials 🥒🎾",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/UF84UY",
-      "start": "2026-11-28T17:00:00+08:00",
-      "end": "2026-11-28T19:00:00+08:00",
-      "capacity": 12,
-      "spots": 0,
-      "price": "8 SGD",
-      "id": "reclub:UF84UY",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Pasir Ris Primary School",
-      "address": "5 Pasir Ris Street 21, Singapore",
-      "title": "Pickleball @ Pasir Ris Primary School ",
-      "club": "pickleball-players-sg",
-      "url": "https://reclub.co/m/RZVR3B",
-      "start": "2026-11-28T18:00:00+08:00",
-      "end": "2026-11-28T21:00:00+08:00",
-      "capacity": 8,
-      "spots": 0,
-      "price": "4 SGD",
-      "id": "reclub:RZVR3B",
-      "isNew": false
-    },
-    {
-      "source": "reclub",
-      "kind": "meet",
-      "area": "East",
-      "venue": "Civil Service Club @ Changi",
-      "address": "2 Netheravon Road, Singapore",
-      "title": "Social Doubles at Changi CSC Court 3",
-      "club": "east-coast-plan",
-      "url": "https://reclub.co/m/CI7IGV",
-      "start": "2026-11-28T20:00:00+08:00",
-      "end": "2026-11-28T22:00:00+08:00",
-      "capacity": 8,
-      "spots": 0,
-      "price": "2 SGD",
-      "id": "reclub:CI7IGV",
-      "isNew": false
-    },
     {
       "source": "reclub",
       "kind": "meet",
@@ -92,6 +24,40 @@
       "price": "14 SGD",
       "id": "reclub:IBPDYN",
       "isNew": false
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Pasir Ris Primary School",
+      "address": "5 Pasir Ris Street 21, Singapore",
+      "title": "Pickleball @ Pasir Ris Primary School ",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/KISW6A",
+      "start": "2026-11-29T13:00:00+08:00",
+      "end": "2026-11-29T15:00:00+08:00",
+      "capacity": 7,
+      "spots": 0,
+      "price": "4 SGD",
+      "id": "reclub:KISW6A",
+      "isNew": true
+    },
+    {
+      "source": "reclub",
+      "kind": "meet",
+      "area": "East",
+      "venue": "Pasir Ris Primary School",
+      "address": "5 Pasir Ris Street 21, Singapore",
+      "title": "Funday pickleball 🥒🏓",
+      "club": "pickleball-players-sg",
+      "url": "https://reclub.co/m/3HMSSJ",
+      "start": "2026-11-29T17:00:00+08:00",
+      "end": "2026-11-29T19:00:00+08:00",
+      "capacity": 7,
+      "spots": 0,
+      "price": "8 SGD",
+      "id": "reclub:3HMSSJ",
+      "isNew": true
     }
   ]
 }

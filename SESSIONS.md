@@ -1,18 +1,16 @@
 # Pickleball sessions: East & Jalan Kayu
 
-Updated 28 Nov 2026, 11:19 am SGT. 🆕 = first seen this run.
+Updated 28 Nov 2026, 11:28 pm SGT. 🆕 = first seen this run.
 
-**Playtomic**: failed · **Reclub**: 5 found
+**Playtomic**: failed · **Reclub**: 3 found
 
 ## Sessions to join
 
 | When | Area | Venue | Session | Spots | Price | |
 |---|---|---|---|---|---|---|
-| Sat, 28 Nov 16:00–18:00 | East | Changkat Primary | PB Social (2.75+) @ Changkat Pri with BW | 3/7 | 3 SGD | [Reclub](https://reclub.co/m/YVUHT5) |
-| Sat, 28 Nov 17:00–19:00 | East | Pasir Ris Primary School | [2H2C] • Pickleball Socials 🥒🎾 | 0/12 | 8 SGD | [Reclub](https://reclub.co/m/UF84UY) |
-| Sat, 28 Nov 18:00–21:00 | East | Pasir Ris Primary School | Pickleball @ Pasir Ris Primary School  | 0/8 | 4 SGD | [Reclub](https://reclub.co/m/RZVR3B) |
-| Sat, 28 Nov 20:00–22:00 | East | Civil Service Club @ Changi | Social Doubles at Changi CSC Court 3 | 0/8 | 2 SGD | [Reclub](https://reclub.co/m/CI7IGV) |
 | Sun, 29 Nov 12:00–14:00 | Jalan Kayu | The Sports Arina @ Jalan Kayu | Intermediate Pickleball @ Jalan Kayu TSA Court 3 | 0/7 | 14 SGD | [Reclub](https://reclub.co/m/IBPDYN) |
+| 🆕 Sun, 29 Nov 13:00–15:00 | East | Pasir Ris Primary School | Pickleball @ Pasir Ris Primary School  | 0/7 | 4 SGD | [Reclub](https://reclub.co/m/KISW6A) |
+| 🆕 Sun, 29 Nov 17:00–19:00 | East | Pasir Ris Primary School | Funday pickleball 🥒🏓 | 0/7 | 8 SGD | [Reclub](https://reclub.co/m/3HMSSJ) |
 
 ## Free courts (Playtomic)
 
